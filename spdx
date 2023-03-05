@@ -1,0 +1,512 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: .
+DocumentNamespace: http://aquasecurity.github.io/trivy/filesystem/.-f7f62ba5-abd2-4932-af3e-7dfc60409e5b
+Creator: Organization: aquasecurity
+Creator: Tool: trivy
+Created: 2023-02-14T16:56:31.660707Z
+
+##### Package: pip
+
+PackageName: pip
+SPDXID: SPDXRef-Application-452f283e1277d64b
+FilesAnalyzed: false
+PackageSourceInfo: requirements.txt
+
+##### Package: .
+
+PackageName: .
+SPDXID: SPDXRef-Filesystem-1465386cfbe4e9c7
+FilesAnalyzed: false
+PackageAttributionText: SchemaVersion: 2
+
+##### Package: zope.interface
+
+PackageName: zope.interface
+SPDXID: SPDXRef-Package-193a4817b4b2741d
+PackageVersion: 5.4.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/zope.interface@5.4.0
+
+##### Package: Flask-GraphQL
+
+PackageName: Flask-GraphQL
+SPDXID: SPDXRef-Package-1e5ee48c4e0b8181
+PackageVersion: 2.0.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask-graphql@2.0.1
+
+##### Package: aniso8601
+
+PackageName: aniso8601
+SPDXID: SPDXRef-Package-212c036189e07be7
+PackageVersion: 7.0.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/aniso8601@7.0.0
+
+##### Package: urllib3
+
+PackageName: urllib3
+SPDXID: SPDXRef-Package-22204c4bdbe750b9
+PackageVersion: 1.26.3
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/urllib3@1.26.3
+
+##### Package: itsdangerous
+
+PackageName: itsdangerous
+SPDXID: SPDXRef-Package-24a1d2bbe26ea9b5
+PackageVersion: 1.1.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/itsdangerous@1.1.0
+
+##### Package: Werkzeug
+
+PackageName: Werkzeug
+SPDXID: SPDXRef-Package-2673bdf1e52b53e3
+PackageVersion: 1.0.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/werkzeug@1.0.1
+
+##### Package: chardet
+
+PackageName: chardet
+SPDXID: SPDXRef-Package-29ef10ec9a42f011
+PackageVersion: 4.0.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/chardet@4.0.0
+
+##### Package: promise
+
+PackageName: promise
+SPDXID: SPDXRef-Package-2b0479ff86c5827e
+PackageVersion: 2.3
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/promise@2.3
+
+##### Package: graphql-relay
+
+PackageName: graphql-relay
+SPDXID: SPDXRef-Package-2fd146ba054ffd40
+PackageVersion: 2.0.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphql-relay@2.0.1
+
+##### Package: graphene-sqlalchemy
+
+PackageName: graphene-sqlalchemy
+SPDXID: SPDXRef-Package-31cc235c97e4e5b1
+PackageVersion: 2.3.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphene-sqlalchemy@2.3.0
+
+##### Package: Flask
+
+PackageName: Flask
+SPDXID: SPDXRef-Package-374595dda15bde52
+PackageVersion: 1.1.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask@1.1.2
+
+##### Package: click
+
+PackageName: click
+SPDXID: SPDXRef-Package-39d6481b7c7083c4
+PackageVersion: 7.1.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/click@7.1.2
+
+##### Package: pytest
+
+PackageName: pytest
+SPDXID: SPDXRef-Package-4d0a1cdd52d8d1ae
+PackageVersion: 7.0.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pytest@7.0.1
+
+##### Package: attrs
+
+PackageName: attrs
+SPDXID: SPDXRef-Package-58c244ead76e881f
+PackageVersion: 21.4.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/attrs@21.4.0
+
+##### Package: PyJWT
+
+PackageName: PyJWT
+SPDXID: SPDXRef-Package-5907a00bea84f2fb
+PackageVersion: 2.3.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pyjwt@2.3.0
+
+##### Package: six
+
+PackageName: six
+SPDXID: SPDXRef-Package-5fa4c0a6ed42c194
+PackageVersion: 1.15.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/six@1.15.0
+
+##### Package: greenlet
+
+PackageName: greenlet
+SPDXID: SPDXRef-Package-690cfa16e213d3d3
+PackageVersion: 1.1.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/greenlet@1.1.2
+
+##### Package: Jinja2
+
+PackageName: Jinja2
+SPDXID: SPDXRef-Package-6feb0a3f5c685aaf
+PackageVersion: 2.11.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/jinja2@2.11.2
+
+##### Package: Flask-Sockets
+
+PackageName: Flask-Sockets
+SPDXID: SPDXRef-Package-7084fd23ddfa1da5
+PackageVersion: 0.2.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask-sockets@0.2.1
+
+##### Package: SQLAlchemy
+
+PackageName: SQLAlchemy
+SPDXID: SPDXRef-Package-77e0556dde5d937d
+PackageVersion: 1.3.22
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/sqlalchemy@1.3.22
+
+##### Package: graphene
+
+PackageName: graphene
+SPDXID: SPDXRef-Package-7a3679c507c9a638
+PackageVersion: 2.1.8
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphene@2.1.8
+
+##### Package: Flask-SQLAlchemy
+
+PackageName: Flask-SQLAlchemy
+SPDXID: SPDXRef-Package-7c64556b41a14b4a
+PackageVersion: 2.4.4
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask-sqlalchemy@2.4.4
+
+##### Package: gevent-websocket
+
+PackageName: gevent-websocket
+SPDXID: SPDXRef-Package-848548ff9cc8137f
+PackageVersion: 0.10.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/gevent-websocket@0.10.1
+
+##### Package: certifi
+
+PackageName: certifi
+SPDXID: SPDXRef-Package-851b1c4c2542013d
+PackageVersion: 2020.12.5
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/certifi@2020.12.5
+
+##### Package: pluggy
+
+PackageName: pluggy
+SPDXID: SPDXRef-Package-91f34cfb3d3380db
+PackageVersion: 1.0.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pluggy@1.0.0
+
+##### Package: singledispatch
+
+PackageName: singledispatch
+SPDXID: SPDXRef-Package-92ea62a5633196ce
+PackageVersion: 3.4.0.3
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/singledispatch@3.4.0.3
+
+##### Package: Flask-GraphQL-Auth
+
+PackageName: Flask-GraphQL-Auth
+SPDXID: SPDXRef-Package-a22ece67da720a3
+PackageVersion: 1.3.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask-graphql-auth@1.3.2
+
+##### Package: pytest-flask
+
+PackageName: pytest-flask
+SPDXID: SPDXRef-Package-abdb9bd364ad2824
+PackageVersion: 1.2.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pytest-flask@1.2.0
+
+##### Package: packaging
+
+PackageName: packaging
+SPDXID: SPDXRef-Package-ae0a6b980f7f8082
+PackageVersion: 21.3
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/packaging@21.3
+
+##### Package: Rx
+
+PackageName: Rx
+SPDXID: SPDXRef-Package-aec0ae8c658b11ab
+PackageVersion: 1.6.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/rx@1.6.1
+
+##### Package: requests
+
+PackageName: requests
+SPDXID: SPDXRef-Package-b2e138dab45b6af6
+PackageVersion: 2.25.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/requests@2.25.1
+
+##### Package: Pypubsub
+
+PackageName: Pypubsub
+SPDXID: SPDXRef-Package-b3d3d4ef7cf1d0ad
+PackageVersion: 4.0.3
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pypubsub@4.0.3
+
+##### Package: pyparsing
+
+PackageName: pyparsing
+SPDXID: SPDXRef-Package-b84ec4423288eaeb
+PackageVersion: 3.0.9
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pyparsing@3.0.9
+
+##### Package: zope.event
+
+PackageName: zope.event
+SPDXID: SPDXRef-Package-c6b9328dca2eee58
+PackageVersion: 4.5.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/zope.event@4.5.0
+
+##### Package: tomli
+
+PackageName: tomli
+SPDXID: SPDXRef-Package-d77f2d391c14b4cb
+PackageVersion: 2.0.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/tomli@2.0.1
+
+##### Package: Flask-Cors
+
+PackageName: Flask-Cors
+SPDXID: SPDXRef-Package-d98169216cde6f6c
+PackageVersion: 3.0.10
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/flask-cors@3.0.10
+
+##### Package: iniconfig
+
+PackageName: iniconfig
+SPDXID: SPDXRef-Package-de5efcda951e632
+PackageVersion: 1.1.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/iniconfig@1.1.1
+
+##### Package: py
+
+PackageName: py
+SPDXID: SPDXRef-Package-e0fb109733fddec3
+PackageVersion: 1.11.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/py@1.11.0
+
+##### Package: gevent
+
+PackageName: gevent
+SPDXID: SPDXRef-Package-e845f031e164f904
+PackageVersion: 21.12.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/gevent@21.12.0
+
+##### Package: idna
+
+PackageName: idna
+SPDXID: SPDXRef-Package-f0257894f5613f70
+PackageVersion: 2.10
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/idna@2.10
+
+##### Package: graphql-core
+
+PackageName: graphql-core
+SPDXID: SPDXRef-Package-f3f88d3d51401e6d
+PackageVersion: 2.3.2
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphql-core@2.3.2
+
+##### Package: graphql-ws
+
+PackageName: graphql-ws
+SPDXID: SPDXRef-Package-f72c1ee9bb56eb3c
+PackageVersion: 0.4.4
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphql-ws@0.4.4
+
+##### Package: MarkupSafe
+
+PackageName: MarkupSafe
+SPDXID: SPDXRef-Package-fa97707be59a6675
+PackageVersion: 1.1.1
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/markupsafe@1.1.1
+
+##### Package: graphql-server-core
+
+PackageName: graphql-server-core
+SPDXID: SPDXRef-Package-fbd4c7b23762c466
+PackageVersion: 1.2.0
+FilesAnalyzed: false
+PackageLicenseConcluded: NONE
+PackageLicenseDeclared: NONE
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/graphql-server-core@1.2.0
+
+##### Relationships
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-Filesystem-1465386cfbe4e9c7
+Relationship: SPDXRef-Filesystem-1465386cfbe4e9c7 CONTAINS SPDXRef-Application-452f283e1277d64b
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-374595dda15bde52
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-d98169216cde6f6c
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-1e5ee48c4e0b8181
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-a22ece67da720a3
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-7c64556b41a14b4a
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-7084fd23ddfa1da5
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-6feb0a3f5c685aaf
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-fa97707be59a6675
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-5907a00bea84f2fb
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-b3d3d4ef7cf1d0ad
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-aec0ae8c658b11ab
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-77e0556dde5d937d
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-2673bdf1e52b53e3
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-212c036189e07be7
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-58c244ead76e881f
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-851b1c4c2542013d
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-29ef10ec9a42f011
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-39d6481b7c7083c4
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-e845f031e164f904
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-848548ff9cc8137f
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-7a3679c507c9a638
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-31cc235c97e4e5b1
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-f3f88d3d51401e6d
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-2fd146ba054ffd40
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-fbd4c7b23762c466
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-f72c1ee9bb56eb3c
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-690cfa16e213d3d3
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-f0257894f5613f70
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-de5efcda951e632
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-24a1d2bbe26ea9b5
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-ae0a6b980f7f8082
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-91f34cfb3d3380db
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-2b0479ff86c5827e
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-e0fb109733fddec3
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-b84ec4423288eaeb
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-4d0a1cdd52d8d1ae
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-abdb9bd364ad2824
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-b2e138dab45b6af6
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-92ea62a5633196ce
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-5fa4c0a6ed42c194
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-d77f2d391c14b4cb
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-22204c4bdbe750b9
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-c6b9328dca2eee58
+Relationship: SPDXRef-Application-452f283e1277d64b CONTAINS SPDXRef-Package-193a4817b4b2741d
+
